@@ -8,8 +8,8 @@ This project is designed to find a path through any maze which starts at the top
 
 ex.
 
-0,0,0,1,0,0,0\n
-0,0,0,1,1,1,0\n
+0,0,0,1,0,0,0
+0,0,0,1,1,1,0
 0,0,0,0,0,1,0
       .
       .
